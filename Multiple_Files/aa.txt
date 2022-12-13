@@ -1,5 +1,3 @@
 sd
 ls
-date
-ps
-restart-service
+
