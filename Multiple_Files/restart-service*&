@@ -1,2 +1,3 @@
 restart-service
 ls
+ps
